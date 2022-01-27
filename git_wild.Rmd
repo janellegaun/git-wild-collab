@@ -39,17 +39,13 @@ diamonds_subset <- diamonds %>%
 ```{r break-it-1}
 #writing some code here 
 ggplot(diamonds, aes(x=carat, y= price))+
-         geom_point()
-
-
+         geom_point() 
 ```
 
 ## STEP 11: And even more merge conflicts!
 
 ```{r break-it-2}
-### Both partners - delete this comment, then write some code here
-### to plot, summarize, calculate something simple using the diamonds
-### dataset.
+DIAMONDS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
 ```
