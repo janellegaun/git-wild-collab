@@ -37,10 +37,8 @@ diamonds_subset <- diamonds %>%
 ## STEP 7: Uh oh, merge conflicts!
 
 ```{r break-it-1}
-### Both partners - delete this comment, then write some code here
-### to plot, summarize, calculate something simple using the diamonds
-### dataset.
 
+wooooooooo here is a bunch of crazy code that will no doubt create a problem 
 
 ```
 
