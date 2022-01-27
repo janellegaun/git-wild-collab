@@ -37,9 +37,9 @@ diamonds_subset <- diamonds %>%
 ## STEP 7: Uh oh, merge conflicts!
 
 ```{r break-it-1}
-
-wooooooooo here is a bunch of crazy code that will no doubt create a problem 
-
+#writing some code here 
+ggplot(diamonds, aes(x=carat, y= price))+
+         geom_point() 
 ```
 
 ## STEP 11: And even more merge conflicts!
