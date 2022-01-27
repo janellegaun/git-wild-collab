@@ -45,7 +45,12 @@ ggplot(diamonds, aes(x=carat, y= price))+
 ## STEP 11: And even more merge conflicts!
 
 ```{r break-it-2}
-DIAMONDS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+#more codey mccode face here
+#codecodecode
+carat <- diamonds %>% 
+  filter(carat = 1.5)
+
 
 
 ```
